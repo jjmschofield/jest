@@ -10,7 +10,7 @@
     "ansi-escapes": "^4.2.1",
     "chalk": "^2.0.1",
     "jest-util": "^24.9.0",
-    "string-length": "^3.1.0"
+    "string-length": "^5.0.0"
   },
   "repository": {
     "type": "git",
